@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/recep/Desktop/ROM_LED.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module LED_with_ROM
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/recep/ROM_LED/ROM_LED.srcs/sim_1/new/tb_ROM_LED.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb_ROM_LED
